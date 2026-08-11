@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terrassuremga.github.io/reference-4saqgy/sitemap.xml
